@@ -6,7 +6,10 @@ npm-debug.log
 # IntelliJ
 *.iml
 /.idea
+<<<<<<< HEAD
 .idea
+=======
+>>>>>>> master
 
 
 # Created by https://www.gitignore.io/api/node
@@ -73,4 +76,8 @@ typings/
 
 
 
+<<<<<<< HEAD
 # End of https://www.gitignore.io/api/node
+=======
+# End of https://www.gitignore.io/api/node
+>>>>>>> master
