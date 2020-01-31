@@ -52,12 +52,12 @@ export default class todoListParentComponent extends Component {
     return (
       <div className="todo-main">
         <form>
-        <h1> My TO-DO List! </h1>
-            <input
-                placeholder="Add a to-do"
-                value={this.state.todoCurrentValue}
-                onChange={this.handleChange}
-            />
+          <h1> My TO-DO List! </h1>
+          <input
+            placeholder="Add a to-do"
+            value={this.state.todoCurrentValue}
+            onChange={this.handleChange}
+          />
           <input
             type="button"
             className="button"
