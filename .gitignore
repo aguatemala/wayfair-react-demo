@@ -6,6 +6,7 @@ npm-debug.log
 # IntelliJ
 *.iml
 /.idea
+.idea
 
 
 # Created by https://www.gitignore.io/api/node
