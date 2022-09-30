@@ -33,7 +33,7 @@
     "react-dom": "^0.14.3",
     "react-redux": "4.3.0",
     "react-router-dom": "^4.2.2",
-    "recharts": "^1.0.0-beta.10",
+    "recharts": "^2.1.14",
     "redux": "^3.0.4"
   }
 }
